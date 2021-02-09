@@ -2,7 +2,7 @@
 
 # Description
 This is a React UI that works with an API to generate a shortened URL.
-This UI leverages my own (starter)[https://github.com/rvansant2/node-app-ui] UI made with React, Material UI or CSS Framework, and more... There is a [Typescript](https://github.com/rvansant2/node-app-ui/tree/typescript) supported branch, but still needs the current baseline components to be ported over to that branch.
+This UI leverages my own [starter](https://github.com/rvansant2/node-app-ui) UI made with React, Material UI or CSS Framework, and more... There is a [Typescript](https://github.com/rvansant2/node-app-ui/tree/typescript) supported branch, but still needs the current baseline components to be ported over to that branch.
 
 # Problem
 The task is to build a front-end for a URL shortening web service. The should using the React framework, and incorporate whichever libraries, frameworks, tools, and development methodologies needed to complete a working front-end.
